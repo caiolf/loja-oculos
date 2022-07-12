@@ -1,0 +1,21 @@
+header {
+	padding: 10px;
+	background-color: #fff;
+	display: flex;
+	justify-content: center;
+}
+header div {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+header nav a {
+	margin: 10px;
+	text-decoration: none;
+	font-size: 18px;
+	color: #000;
+}
+header img {
+	width: 150px;
+}

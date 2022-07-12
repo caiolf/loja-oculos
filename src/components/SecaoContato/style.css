@@ -1,0 +1,39 @@
+.contato {
+	width: 100%;
+	background-color: #05031b;
+	color: #fff;
+	text-align: center;
+	padding: 100px 20px;
+}
+.contato figure {
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	margin: 5px 0;
+}
+.contatos-box {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+.contatos {
+	display: flex;
+	flex-direction: column;
+	padding: 15px;
+	width: 25%;
+}
+.contatos,
+figcaption {
+	text-align: left;
+}
+.contato img {
+	width: 18px;
+}
+.contato figcaption {
+	font-size: 14px;
+	margin-left: 10px;
+}
+.contato h2 {
+	font-size: 18px;
+}

@@ -1,1 +1,27 @@
-
+.capa {
+	height: 80vh;
+	background-image: url("/public/assets/capa.png");
+	background-size: cover;
+}
+.capa div {
+	width: 100%;
+	height: 100%;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	color: #fff;
+}
+.capa p,
+.capa h1 {
+	margin: 20px;
+	max-width: 500px;
+	font-family: "Anybody", cursive;
+}
+.capa p {
+	font-size: 36px;
+	color: rgb(196, 196, 196);
+}
+.capa h1 {
+	font-size: 60px;
+}

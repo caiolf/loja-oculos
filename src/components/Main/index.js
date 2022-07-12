@@ -10,8 +10,8 @@ export default function Main() {
     <main>
       <SecaoCapa></SecaoCapa>
       <SecaoProdutos></SecaoProdutos>
-      <SecaoContato></SecaoContato>
       <SecaoSobre></SecaoSobre>
+      <SecaoContato></SecaoContato>
     </main>
   )
 }

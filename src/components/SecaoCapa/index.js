@@ -3,8 +3,12 @@ import './style.css'
 
 export default function SecaoCapa() {
   return (
-    <div>
-      <p>Preços baixos em <br /><span>ÓCULOS DE GRAU E DE SOL</span><br />Você só encontra aqui</p>
-    </div>
+    <section className="capa">
+      <div className="limitar-secao">
+        <p>Preços baixos em</p>
+        <h1>ÓCULOS DE GRAU E DE SOL</h1>
+        <p>Você só encontra aqui</p>
+      </div>
+    </section>
   )
 }
