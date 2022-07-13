@@ -11,6 +11,9 @@
 	justify-content: space-between;
 }
 .produtos .card {
+	background-color: #f8f7ff;
+	border-radius: 10%;
+	border: #a2adad solid 1px;
 	width: calc(50% - 15px);
 	padding: 20px 10px;
 	margin: 0 0 20px;
@@ -40,7 +43,7 @@
 	flex-direction: column;
 	align-items: center;
 }
-.produtos.li {
+.produtos li {
 	text-align: left;
 	margin: 5px;
 }

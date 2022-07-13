@@ -3,6 +3,9 @@
 	text-align: center;
 	padding: 100px 20px;
 }
+.sobre p {
+	line-height: 30px;
+}
 .sobre .card,
 .sobre img {
 	width: 50%;

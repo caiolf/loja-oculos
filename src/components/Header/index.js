@@ -1,15 +1,16 @@
 import React from "react";
-import './style.css'
+import './style.css';
+import logo from '../../assets/logo.png'
 
 export default function Header() {
   return (
     <header>
       <div className="limitar-secao">
-        <img src="assets/logo.png" alt="Logo" />
+        <img src={logo} alt="Logo" />
         <nav>
-          <a href="#">PRODUTOS</a>
-          <a href="#">SOBRE</a>
-          <a href="#">CONTATO</a>
+          <a href="#produtos">PRODUTOS</a>
+          <a href="#sobre">SOBRE</a>
+          <a href="#contato">CONTATO</a>
         </nav>
       </div>
     </header>)

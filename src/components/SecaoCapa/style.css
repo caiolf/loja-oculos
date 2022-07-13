@@ -1,6 +1,6 @@
 .capa {
 	height: 80vh;
-	background-image: url("/public/assets/capa.png");
+	background-image: url("/src/assets/capa.png");
 	background-size: cover;
 }
 .capa div {
