@@ -1,24 +1,17 @@
 {
   "files": {
-    "main.css": "/loja-oculos/static/css/main.da85e7f5.css",
-    "main.js": "/loja-oculos/static/js/main.46d1eed1.js",
+    "main.css": "/loja-oculos/static/css/main.bf14d330.css",
+    "main.js": "/loja-oculos/static/js/main.8995dd37.js",
     "static/js/787.28cb0dcd.chunk.js": "/loja-oculos/static/js/787.28cb0dcd.chunk.js",
-    "static/media/atendimento.png": "/loja-oculos/static/media/atendimento.e03d6c4f02fa26d0e1bd.png",
-    "static/media/oculos04.png": "/loja-oculos/static/media/oculos04.2b4ef3046472f1e65e3c.png",
     "static/media/capa.png": "/loja-oculos/static/media/capa.44a9e1db5439c08db3da.png",
-    "static/media/oculos01.png": "/loja-oculos/static/media/oculos01.6f54a4b935d414714b05.png",
-    "static/media/loja.png": "/loja-oculos/static/media/loja.b9dd553b1f5324ca19d8.png",
-    "static/media/oculos03.png": "/loja-oculos/static/media/oculos03.5551db3a9fed6348356a.png",
-    "static/media/oculos02.png": "/loja-oculos/static/media/oculos02.120e034f9037c3e7f5ce.png",
-    "static/media/logo.png": "/loja-oculos/static/media/logo.de2cc3bbc4d89ca71721.png",
     "static/media/logo.svg": "/loja-oculos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/loja-oculos/index.html",
-    "main.da85e7f5.css.map": "/loja-oculos/static/css/main.da85e7f5.css.map",
-    "main.46d1eed1.js.map": "/loja-oculos/static/js/main.46d1eed1.js.map",
+    "main.bf14d330.css.map": "/loja-oculos/static/css/main.bf14d330.css.map",
+    "main.8995dd37.js.map": "/loja-oculos/static/js/main.8995dd37.js.map",
     "787.28cb0dcd.chunk.js.map": "/loja-oculos/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da85e7f5.css",
-    "static/js/main.46d1eed1.js"
+    "static/css/main.bf14d330.css",
+    "static/js/main.8995dd37.js"
   ]
 }
