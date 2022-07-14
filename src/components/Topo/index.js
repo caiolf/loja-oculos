@@ -1,12 +1,11 @@
 import React from "react";
 import './style.css';
-import logo from '../../assets/logo.png'
 
-export default function Header() {
+export default function Topo() {
   return (
     <header>
       <div className="limitar-secao">
-        <img src={logo} alt="Logo" />
+        <img src="loja-oculos/assets/logo.png" alt="Logo" />
         <nav>
           <a href="#produtos">PRODUTOS</a>
           <a href="#sobre">SOBRE</a>

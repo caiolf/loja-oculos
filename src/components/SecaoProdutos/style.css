@@ -47,3 +47,30 @@
 	text-align: left;
 	margin: 5px;
 }
+
+@media (max-width: 768px) {
+	.produtos {
+		padding: 60px 20px;
+	}
+	.produtos .card h2 {
+		font-size: 32px;
+	}
+	.produtos img {
+		max-height: 100px;
+	}
+	.produtos .card p {
+		font-size: 16px;
+	}
+}
+
+@media (max-width: 550px) {
+	.produtos {
+		padding: 60px 10px;
+	}
+	.produtos .card {
+		width: 100%;
+	}
+	.produtos ul {
+		align-items: flex-start;
+	}
+}

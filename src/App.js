@@ -1,14 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 
-import Header from './components/Header';
+import Topo from './components/Topo';
 import Main from './components/Main';
 import Footer from './components/Footer';
 
 export default function App() {
   return (
     <div className="App">
-      <Header></Header>
+      <Topo></Topo>
       <Main></Main>
       <Footer></Footer>
     </div>

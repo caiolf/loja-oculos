@@ -42,3 +42,28 @@
 .sobre img {
 	object-fit: fit;
 }
+
+@media (max-width: 768px) {
+	.sobre .card {
+		padding: 15px;
+	}
+	.sobre .card h1 {
+		font-size: 22px;
+	}
+	.sobre .card p {
+		font-size: 16px;
+	}
+}
+@media (max-width: 550px) {
+	.sobre {
+		padding: 100px 10px;
+	}
+	.sobre .card-group {
+		flex-direction: column;
+	}
+	.sobre .card,
+	.sobre img {
+		width: 100%;
+		height: 100%;
+	}
+}
